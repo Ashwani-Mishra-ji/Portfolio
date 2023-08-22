@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.75ee78e4.css",
+    "main.js": "/Portfolio/static/js/main.60c4a255.js",
+    "static/media/newweather.png": "/Portfolio/static/media/newweather.c649223c9162d4b52c25.png",
+    "static/media/agecalculator.png": "/Portfolio/static/media/agecalculator.dc26ae60ab7d463513e9.png",
+    "static/media/newstopwatch.png": "/Portfolio/static/media/newstopwatch.1ed76c263a05db520522.png",
+    "static/media/hero.png": "/Portfolio/static/media/hero.5d2e6001cab74254b273.png",
+    "static/media/html.png": "/Portfolio/static/media/html.0b76f44049eeb2682736.png",
+    "static/media/calculator.png": "/Portfolio/static/media/calculator.6f7c14534088a51f447c.png",
+    "static/media/express.png": "/Portfolio/static/media/express.fbb7e657f1005340eae2.png",
+    "static/media/react.png": "/Portfolio/static/media/react.44319306359c7112276d.png",
+    "static/media/css.png": "/Portfolio/static/media/css.6402b604475346c0ff73.png",
+    "static/media/filmyverse.png": "/Portfolio/static/media/filmyverse.f86a334c1c189db4a5bb.png",
+    "index.html": "/Portfolio/index.html",
+    "main.75ee78e4.css.map": "/Portfolio/static/css/main.75ee78e4.css.map",
+    "main.60c4a255.js.map": "/Portfolio/static/js/main.60c4a255.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75ee78e4.css",
+    "static/js/main.60c4a255.js"
+  ]
+}
